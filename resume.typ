@@ -150,11 +150,10 @@
 )
 
 == Skills
-- *Programming Languages*: JavaScript, Python, C/C++, HTML/CSS, Java, Bash, R, Flutter, Dart
-- *Technologies*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, Caddy, NGINX, Google Cloud Platform
-- *Programming Languages*:  Python, Pytorch, Javascript, Go, C/C++, Bash script
-- *Database Technologies*: Microsoft SQL Server, Postgress, Redshift, BigQuery, MongoDB
-- *Frameworks*: Apache Airflow, Flask, Cloudformation, Terraform
+- *Programming Languages*: JavaScript, Python, C, HTML/CSS, Java, Bash
+- *Technologies*: React, Next JS, Tailwind CSS, Git, Docker, Google Cloud Platform
+- *Database Technologies*: Redshift, BigQuery, Microsoft SQL Server, MongoDB, Postgress
+- *Frameworks*: Apache Airflow, Flask, Cloudformation, Terraform, Pytorch
 - *Development Tools*: Git, AWS, GCP, Docker, Vim, Tmux, Latex, Jupyter-Notebook, Linux
 
 == Extracurricular activities
